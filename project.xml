@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="FNFLime" package="com.sample.fnflime" version="1.0.0" company="FNF-Lime" />
+	<app main="Main" path="Export" file="FNFLime" />
+	<window width="1280" height="720" resizable="false" fps="60" />
+
+	<source path="Source" />
+
+	<haxelib name="lime" />
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" />
+</project>
